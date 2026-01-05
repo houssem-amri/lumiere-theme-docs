@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunklumiere_theme_docs=globalThis.webpackChunklumiere_theme_docs||[]).push([[9282],{3218(e){e.exports=JSON.parse('{"label":"docusaurus","permalink":"/lumiere-theme-docs/blog/tags/docusaurus","allTagsPath":"/lumiere-theme-docs/blog/tags","count":4,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkranyora_theme_docs=globalThis.webpackChunkranyora_theme_docs||[]).push([[3040],{3386(o){o.exports=JSON.parse('{"permalink":"/ranyora-theme-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

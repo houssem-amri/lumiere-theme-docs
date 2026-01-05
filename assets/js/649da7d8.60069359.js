@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkranyora_theme_docs=globalThis.webpackChunkranyora_theme_docs||[]).push([[7466],{588(a){a.exports=JSON.parse('{"label":"hello","permalink":"/ranyora-theme-docs/blog/tags/hello","allTagsPath":"/ranyora-theme-docs/blog/tags","count":2,"unlisted":false}')}}]);

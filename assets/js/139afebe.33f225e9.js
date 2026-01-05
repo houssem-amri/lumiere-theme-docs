@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunklumiere_theme_docs=globalThis.webpackChunklumiere_theme_docs||[]).push([[8637],{6870(e){e.exports=JSON.parse('{"permalink":"/lumiere-theme-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

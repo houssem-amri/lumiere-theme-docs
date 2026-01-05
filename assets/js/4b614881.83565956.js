@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkranyora_theme_docs=globalThis.webpackChunkranyora_theme_docs||[]).push([[2499],{5214(a){a.exports=JSON.parse('{"label":"facebook","permalink":"/ranyora-theme-docs/blog/tags/facebook","allTagsPath":"/ranyora-theme-docs/blog/tags","count":1,"unlisted":false}')}}]);

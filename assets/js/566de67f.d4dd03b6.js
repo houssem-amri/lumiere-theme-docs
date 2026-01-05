@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkranyora_theme_docs=globalThis.webpackChunkranyora_theme_docs||[]).push([[1242],{7208(a){a.exports=JSON.parse('{"label":"docusaurus","permalink":"/ranyora-theme-docs/blog/tags/docusaurus","allTagsPath":"/ranyora-theme-docs/blog/tags","count":4,"unlisted":false}')}}]);
